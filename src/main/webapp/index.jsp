@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dockerized Jenkins CI/CD</title>
+    <title>Dockerized Jenkins CI/CD Pipeline</title>
 </head>
+
 <body>
-    <h1>Dockerized Jenkins CI/CD Pipeline</h1>
-    <h2>Application deployed successfully!</h2>
-    <p>Running on AWS EC2 using Docker and Tomcat.</p>
+
+    <h1>Welcome to Dockerized Jenkins CI/CD Pipeline</h1>
+
+    <h2>Application Successfully Deployed</h2>
+
+    <p>This application was deployed automatically using Jenkins and Docker.</p>
+
+    <p>CI/CD Pipeline Working Successfully!</p>
+
 </body>
 </html>
